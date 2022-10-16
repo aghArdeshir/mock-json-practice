@@ -1,11 +1,47 @@
 [
-    { id: 1, title: "LiquidText", description: "Annotate and review documents" },
-    { id: 2, title: "BBEdit", description: "Legendary text and code editor" },
-    { id: 3, title: "Pixelmator Pro", description: "Pro image edditing for everyon" },
-    { id: 4, title: "Soulver", description: "Notpad, meet calculator" },
-    { id: 5, title: "Agenda", description: "Date-focused note taking" },
-    { id: 6, title: "Michinika Museum", description: "Mystery puzzle game" },
-    { id: 7, title: "Kaleidoscope", description: "Mystery puzzle game" },
-    { id: 8, title: "Reeder", description: "Legendary text and code editor" },
-    { id: 9, title: "Due -- Reminders & Timers", description: "Legendary text and code editor" }
+    {
+        "id": 1,
+        "title": "LiquidText",
+        "description": "Annotate and review documents"
+    },
+    {
+        "id": 2,
+        "title": "BBEdit",
+        "description": "Legendary text and code editor"
+    },
+    {
+        "id": 3,
+        "title": "Pixelmator Pro",
+        "description": "Pro image edditing for everyon"
+    },
+    {
+        "id": 4,
+        "title": "Soulver",
+        "description": "Notpad, meet calculator"
+    },
+    {
+        "id": 5,
+        "title": "Agenda",
+        "description": "Date-focused note taking"
+    },
+    {
+        "id": 6,
+        "title": "Michinika Museum",
+        "description": "Mystery puzzle game"
+    },
+    {
+        "id": 7,
+        "title": "Kaleidoscope",
+        "description": "Mystery puzzle game"
+    },
+    {
+        "id": 8,
+        "title": "Reeder",
+        "description": "Legendary text and code editor"
+    },
+    {
+        "id": 9,
+        "title": "Due -- Reminders & Timers",
+        "description": "Legendary text and code editor"
+    }
 ]
