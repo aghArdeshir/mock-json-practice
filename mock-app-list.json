@@ -1,47 +1,56 @@
 [
-    {
-        "id": 1,
-        "title": "LiquidText",
-        "description": "Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents "
-    },
-    {
-        "id": 2,
-        "title": "BBEdit",
-        "description": "Legendary text and code editor"
-    },
-    {
-        "id": 3,
-        "title": "Pixelmator Pro",
-        "description": "Pro image edditing for everyon"
-    },
-    {
-        "id": 4,
-        "title": "Soulver",
-        "description": "Notpad, meet calculator"
-    },
-    {
-        "id": 5,
-        "title": "Agenda",
-        "description": "Date-focused note taking"
-    },
-    {
-        "id": 6,
-        "title": "Michinika Museum",
-        "description": "Mystery puzzle game"
-    },
-    {
-        "id": 7,
-        "title": "Kaleidoscope",
-        "description": "Mystery puzzle game"
-    },
-    {
-        "id": 8,
-        "title": "Reeder",
-        "description": "Legendary text and code editor"
-    },
-    {
-        "id": 9,
-        "title": "Due -- Reminders & Timers",
-        "description": "Legendary text and code editor"
-    }
+  {
+    "id": 1,
+    "title": "LiquidText",
+    "imageUrl": "https://aghardeshir.github.io/mock-json-practice/1.png",
+    "description": "Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents Annotate and review documents "
+  },
+  {
+    "id": 2,
+    "title": "BBEdit",
+    "imageUrl": "https://aghardeshir.github.io/mock-json-practice/2.png",
+    "description": "Legendary text and code editor"
+  },
+  {
+    "id": 3,
+    "title": "Pixelmator Pro",
+    "imageUrl": "https://aghardeshir.github.io/mock-json-practice/3.png",
+    "description": "Pro image edditing for everyon"
+  },
+  {
+    "id": 4,
+    "title": "Soulver",
+    "imageUrl": "https://aghardeshir.github.io/mock-json-practice/4.png",
+    "description": "Notpad, meet calculator"
+  },
+  {
+    "id": 5,
+    "title": "Agenda",
+    "imageUrl": "https://aghardeshir.github.io/mock-json-practice/5.png",
+    "description": "Date-focused note taking"
+  },
+  {
+    "id": 6,
+    "title": "Michinika Museum",
+    "imageUrl": "https://aghardeshir.github.io/mock-json-practice/6.png",
+    "description": "Mystery puzzle game"
+  },
+  {
+    "id": 7,
+    "title": "Kaleidoscope",
+    "imageUrl": "https://aghardeshir.github.io/mock-json-practice/7.png",
+    "description": "Mystery puzzle game"
+  },
+  {
+    "id": 8,
+    "title": "Reeder",
+    "imageUrl": "https://aghardeshir.github.io/mock-json-practice/8.png",
+    "description": "Legendary text and code editor"
+  },
+  {
+    "id": 9,
+    "title": "Due -- Reminders & Timers",
+    "imageUrl": "https://aghardeshir.github.io/mock-json-practice/9.png",
+    "description": "Legendary text and code editor"
+  }
 ]
